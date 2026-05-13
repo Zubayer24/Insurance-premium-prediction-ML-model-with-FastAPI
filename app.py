@@ -4,7 +4,7 @@ from schema.user_input import UserInput
 import json
 import pickle
 import pandas as pd
-from predict import predict_output, MODEL_VERSION 
+from predict import predict_output, MODEL_VERSION, model
 from schema.predicted_response import PredictionResponse
 
 
